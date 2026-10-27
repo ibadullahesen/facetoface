@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- ================================================================
+  FaceToFace — Rəsmi logo (yer tutucu brend işarəsi)
+  ⚠️ Real logo faylı ilə əvəz etmək üçün bu faylı yeniləyin
+     və ya src/config/site.ts → SITE.logo yolunu dəyişin.
+  ================================================================ -->
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E7CF6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="lg2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <radialGradient id="bgg" cx="0.5" cy="0.4" r="0.8">
+      <stop offset="0" stop-color="#111A3A"/>
+      <stop offset="1" stop-color="#070A18"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgg)"/>
+  <!-- Two faces facing each other -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="url(#lg)" stroke-width="14" opacity="0.35"/>
+  <!-- Left face (gradient) -->
+  <path d="M196 128 c-70 18-100 84-84 148 c8 34 30 60 60 74 l-18 46 c-4 10 4 20 14 18 l96-16 c60-14 96-72 88-134 c-8-62-64-108-128-108 c-10 0-20 1-28 2 z" fill="url(#lg)" opacity="0.92"/>
+  <!-- Right face (mirror, gradient 2) -->
+  <path d="M316 384 c70-18 100-84 84-148 c-8-34-30-60-60-74 l18-46 c4-10-4-20-14-18 l-96 16 c-60 14-96 72-88 134 c8 62 64 108 128 108 c10 0 20-1 28-2 z" fill="url(#lg2)" opacity="0.8"/>
+  <!-- Face details: eyes -->
+  <circle cx="182" cy="212" r="16" fill="#0B1026"/>
+  <circle cx="330" cy="300" r="16" fill="#0B1026"/>
+  <circle cx="187" cy="207" r="5" fill="#E0F2FE"/>
+  <circle cx="335" cy="295" r="5" fill="#FCE7F3"/>
+</svg>

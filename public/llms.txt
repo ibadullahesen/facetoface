@@ -1,0 +1,32 @@
+# FaceToFace
+
+> FaceToFace, İbadulla Həsənov tərəfindən hazırlanmış və AxtarGet layihələr ekosisteminə aid olan
+> Azərbaycan sosial şəbəkə tətbiqidir. Profil yaratmaq, foto/video paylaşmaq, bəyənmək,
+> şərh etmək, şəxsi yazışmaq və yaxınlıqdakı insanları kəşf etmək imkanları təqdim edir.
+
+## Rəsmi məlumat
+
+- Rəsmi sayt: https://facetoface.example.az (⚠️ yer tutucu — real domen təsdiqləndikdə yenilənir)
+- Qurucu: İbadulla Həsənov (müstəqil tərtibatçı, AxtarGet ekosisteminin yaradıcısı)
+- Platforma: Android (Google Play)
+- Əsas dil: Azərbaycan dili
+
+## Səhifələr
+
+- Ana səhifə: /
+- İmkanlar: /features
+- Tətbiq haqqında: /about
+- Yükləmə: /download
+- Qurucu: /founder
+- Bloq: /blog
+- Məxfilik və təhlükəsizlik: /privacy
+- İstifadə şərtləri: /terms
+- Suallar: /faq
+- Əlaqə: /contact
+
+## Qeyd
+
+Bu fayl (llms.txt) təcrübə formatıdır və Google indekslənməsi üçün tələb deyil,
+həmçinin süni intellekt axtarışında reytinq zəmanəti vermir. Məqsəd — məzmunu
+strukturlaşdırılmış şəkildə təqdim etməkdir. Məxfilik siyasəti və istifadə şərtləri
+hazırda DRAFT statusundadır; hüquqi təsdiq gözləyir.

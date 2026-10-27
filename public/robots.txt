@@ -1,0 +1,10 @@
+# FaceToFace — robots.txt
+# ⚠️ Sahibkar qeydi: SITE.url real domeni ilə dəyişdirildikdə
+#    aşağıdakı sitemap URL-i də yenilənməlidir.
+
+User-agent: *
+Allow: /
+Disallow:
+
+# Bildiriş: heç bir CSS/JS/şəkil qovluğu bloklanmayıb (render üçün açıqdır)
+Sitemap: https://facetoface.example.az/sitemap.xml
