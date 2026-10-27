@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   title: "FaceToFace — Sosial şəbəkə və yeni insanlarla tanışlıq",
   description:
     "FaceToFace haqqında məlumat əldə et, tətbiqin imkanlarını kəşf et və yeni insanlarla ünsiyyət qurmaq üçün rəsmi tətbiq səhifəsinə keç.",
+  verification: {
+    google: "eCiwKwC0TCcyq0YzMsFSPUqxkIten3AEANXi0120N8Y",
+  },
   keywords: ["FaceToFace", "sosial şəbəkə", "tanışlıq tətbiqi", "AxtarGet", "İbadulla Həsənov", "Azərbaycan tətbiq"],
   authors: [{ name: SITE.founder.name }],
   creator: SITE.founder.name,
